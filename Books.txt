@@ -1,2 +1,2 @@
 Book is used write data and later we can read it. Books are of different types they are printed books like novels, magzines etc which we can 
-read directly with out any writing.
+read directly with out any writing.They are better than mobiles.
